@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('The Smart Web application has fully loaded!');
+    console.log('Welcome to the Smart Web application!');
 });
