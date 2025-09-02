@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Trang Web Thông Minh đã được tải!');
+    console.log('The Smart Web has been loaded!');
 });
